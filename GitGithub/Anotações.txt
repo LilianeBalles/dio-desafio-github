@@ -1,0 +1,9 @@
+
+Dicas de Gabs Ferreira:
+
+Criando e enviando arquivos para seu repositório no Github
+
+http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
+
+Criando o repositório:
+Abra seu Github, após fazer o login clicar em New Repository
