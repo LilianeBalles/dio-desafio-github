@@ -1,5 +1,19 @@
 
-Dicas de Gabs Ferreira:
+links úteis:
+
+https://www.alura.com.br/artigos/o-que-e-git-github?gclid=Cj0KCQjwuMuRBhCJARIsAHXdnqNGjJdFGRxNHxP3OfOchZBR7Xq5Q_YO1ku8z8ldfuNKqObDrZsoe0oaAgxJEALw_wcB
+
+https://www.devmedia.com.br/guia/git-e-github/37585
+
+https://www.hashtagtreinamentos.com/git-e-github-python?gclid=Cj0KCQjwuMuRBhCJARIsAHXdnqP7FTA0k-jiXKDbzLdImrpqJWaAzocf8iU03Le2kvnKAlF8_P_ZR9kaAsU0EALw_wcB
+
+https://www.youtube.com/watch?v=UBAX-13g8OM
+
+https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+
+
+
+* Dicas de Gabs Ferreira:
 
 Criando e enviando arquivos para seu repositório no Github
 
@@ -7,3 +21,58 @@ http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-gith
 
 Criando o repositório:
 Abra seu Github, após fazer o login clicar em New Repository
+
+Comandos úteis:
+
+git config --list (Exibe as configurações do repositório local)
+git status (Exibe o estado atual dos arquivos dentro do repositório Git)
+git config --global --unset user.nickname (Remove o usuário em GIT)
+git config --global --unset user.email (Remove o e-mail do usuário)
+
+Workflow Local:
+
+1.     git init (Inicializa um repositório do GIT dentro da pasta atual)
+2.     git config –-global user.nickname "someone" (Seta o nickname no repositório GIT local)
+3.     git config –-global user.email "someone@someplace.com" (Seta o email no repositório GIT local)
+4.     git add * (Adiciona os arquivos untracked e unmodified para staged)
+5.     git commit -m "some msg" (Comita a alteração com uma mensagem "some msg")
+6.   git checkout -b newbranch (Cria uma nova Branch e navega para essa nova branch)
+7.   git checkout newbranch (Navega para uma nova Branch criada)
+8.   git branch –list (Lista as Branchs no repositório local)
+9.   git branch -m novo-nome (Renomeia o nome da Branch Atual)
+10. git branch –a (Lista as Branchs Locais e Remotas)
+
+
+Comandos para Git Remoto:
+
+git remote add origin https://github.com/Gultes/exemplo.git (Aponta o repositório local para o GitHUB)
+git remote –v (Lista os repositórios remotos cadastrados)
+git pull origin master (Puxa o repositório do GITHub para o repositório local)
+git push origin master (Empurra o repositório local para o repositório do GITHub na master)
+
+Obs: master/main podem variar o nome no GitHub, o nome usado nos comandos nesse caso vai ser sempre o do branch raíz!
+
+
+
+O que é Git? Criado em 2005 por Linus Torvalds (Criador do Linux)., é um sistema de versionamento de código distribuído.
+
+Benefícios:
+
+Controle de versão
+Armazenamento em nuvem
+Trabalho em equipe
+Possibilidade de melhorar do seu código através de contribuição por Forks
+Reconhecimento
+
+O que é o SHA1? É um algoritmo de encriptação (Secure Hash Algorithm) desenvolvido pela NSA (Agência de Segurança Nacional dos EUA). Funciona tanto para arquivos quanto para objetos internos. Os dados encrIptados geram um conjunto de caracteres únicos de 40 dígitos que serve como identificação.
+
+Quais são os objetos internos do Git?
+
+Blobs
+Trees
+Commits
+
+Porque o GIT é um sistema distribuído e seguro? O repositório do código fonte fica hospedado em um servidor da nuvem, por exemplo: Gihub.
+
+Exemplo de uso: Supondo que há n pessoas alterando o código ( maintainers). A versão mais recente que está na máquina do servidor Web e a versão que está com essas pessoas é a mesma, desse modo é distribuido e seguro.
+
