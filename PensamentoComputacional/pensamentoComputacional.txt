@@ -1,0 +1,187 @@
+
+PENSAMENTO COMPUTACIONAL:
+
+
+links úteis:
+
+https://www.youtube.com/watch?v=J3JhWU4_H_Y&list=PLxI8Can9yAHdhRx3TIqX_B3C20ETZEV_V
+
+https://www.youtube.com/watch?v=HvSugmHoyGo&t=25s
+
+
+Resumo do Curso de Pensamento Computacional da DIO, com a professora Juliana Mascarenhas, acrescido de anotações do curso de Pensamento Computacional da Univesp.
+
+Resolver problemas de maneira mais eficiente!
+
+O Pensamento Computacional aborda a solução de problemas utilizando conceitos da computação. Propõe criar formas novas e criativas para resolver um problema. Através do raciocínio lógico devem ser desenvolvidos passos a passos ou processos para chegar à soluções.
+
+Motivos para aprender Pensamento Computacional:
+
+Resolução de problemas complexos;
+Inclusão do cidadão (conhecer as soluções computacionais presentes no dia a dia, identificar o que está acontecendo no mundo;
+Flexibilidade cognitiva;
+Habilidade analítica;
+
+Pode ser definido como a capacidade de sistematizar, representar e resolver problemas complexos. Uma ferramenta capaz de aumentar o poder cognitivo e operacional e muito atribuído à Ciência da Computação. Pode ser utilizado e aplicado em várias áreas do conhecimento, pois não está relacionado somente a tecnologia. Sendo fundamental para todos, deve ser aprendida/ensinada para que possamos refletir mais racionalmente sobre os nossos problemas e os da sociedade. Esta habilidade é extremamente relevante para o profissional do futuro.
+
+É Processo de pensamento estruturado que envolve a determinação de um problema e de uma solução, de tal maneira, que haja uma sucessão de instruções, um passo a passo, de como vai se chegar àquela solução e que isso seja executável por um computador, ou seja, que o computador utilize o algoritmo.
+
+De uma forma geral, o Pensamento Computacional é uma competência, uma habilidade geral de formulação e resolução de problemas (encontrar a melhor solução possível dado um problema).
+
+Tipo de pensamento sistemático e eficiente que deve ser aplicado de maneira que o ser humano e uma máquina possam entender. 
+Permite que se utiliza o melhor dos dois mundos, pois um computador não consegue fazer nada sozinho porque somos nós que determinamos as instruções específicas que ele deve seguir para executar uma determinada tarefa.
+
+O que é o forte do ser humano -> a abstração e a detecção de padrões que ocorrem de uma maneira natural no ser humano; e expressamos a solução de uma maneira que o computador entenda.
+O forte do computador -> executar a solução de uma maneira eficiente, mais eficiente do que nós conseguimos realizar, mais rapidamente.
+Conseguimos essa troca, o melhor dos dois mundos, quando utilizamos o Pensamento Computacional.
+
+Pilares:
+
+Baseado em 4 pilares que orientam o processo de resolução de problemas.
+
+Decomposição – dividir um problema complexo em subproblemas de maneira que se torne mais fácil de resolver. Divisão dos problemas em partes menores.
+
+Lembrando que um problema complexo é aquele que não tem uma solução imediata, e para resolvê-lo precisa decompor esse problema maior em problemas menores e a partir daí, tentar identificar soluções para esses problemas menores.
+E a partir da decomposição desse problema em partes menores, é feita uma análise individual de cada um deles tentando identificar padrões, para que a partir desses padrões identificados, possa se fazer um filtro extraindo informações relevantes para a solução do problema e, assim, implementar essas soluções por meio de algoritmos. Possibilitando resolver problemas complexos de forma mais simples.
+
+Reconhecimento de padrões – identificar padrões ou tendências dentro de um determinado problema ou em problemas distintos. Este tipo de situação pode ocorrer por similaridade ou diferenças entre os problemas. Encontrar semelhanças entre problemas.
+
+Padrões são similaridades ou características que alguns problemas compartilham. É importante destacar que o ato de identificar padrões nos acompanha desde a infância porque é uma construção continuada e não para de crescer. Se em nosso dia a dia a gente consegue identificar um padrão, a gente leva para nossas vidas.
+Importante destacar que ao encontrar similaridades entre os pequenos problemas, podemos usar esse padrão para resolvê-los, e quanto mais padrões encontramos, mais fácil e rápida será a resolução do nosso problema ou tarefa.
+
+Abstração – uma particularidade, pegar um cenário, e extrapolar o conceito do problema de tal forma que se torne generalista. É a escolha e classificação dos dados mais importantes.
+
+A abstração é uma filtragem ou uma classificação dos dados, criando um mecanismo para que possamos separar aquilo que realmente é importante para a resolução do problema. Muitas vezes devemos excluir detalhes que não são relevantes para a resolução do problema. Com isso conseguimos criar uma representação, uma ideia do que realmente se pretende resolve. A abstração é essencial para que possamos escolher o detalhe a ser ignorado -> apenas focar no que é interessante.
+
+Design de algoritmos – criação de passos e soluções para resolver o problema. Determina a execução eficiente do problema. Automatizar, definir o passo a passo, a solução do problema.
+(um algoritmo consiste em uma entrada que precisa de uma saída e existem operações que vão ser realizadas para conseguir a solução - dado uma entrada daquele problema e os dados relacionados àquele problema, vamos ter uma sequência de operações a serem realizadas, um conjunto de operações a serem realizadas, que vão gerar a solução para aquele problema específico).
+Ter em mente que uma vez tendo a solução precisamos testá-la e aperfeiçoá-la depois de definido a solução. Interessante para otimizar recursos, pois quanto mais eficiente seu algoritmo menos recursos serão utilizados menos tempo será utilizado e mais rápido terá a solução implementada, e menos custos o que é absurdamente importante.
+Então temos um ciclo: fase análise (que é definir a solução), o teste e o refinamento. Pode ser no outro sentido, tendo a solução você testa e analisa (eu preciso melhorar alguma coisa?) se precisa -> refina, aperfeiçoa.
+
+O algoritmo é um plano, uma estratégia ou um conjunto de instruções ordenadas para a solução de um problema complexo, ou, execução de uma determinada tarefa.
+A formulação do algoritmo passa pelo processo de decomposição, pelo reconhecimento de padrões e pela abstração. 
+Na execução de um algoritmo seguirá os passos pré-definidos.
+UM ALGORITMO É UMA SEQUÊNCIA DE INSTRUÇÕES que podem ser escritas em forma de diagrama ou por um pseudocódigo.
+
+
+Variação dos pilares/ Habilidades complementares:
+
+Complementar, mas inerente ao processo 
+Raciocínio Lógico e um pensamento bem estruturado que permite encontrar a conclusão ou determinar a resolução de um problema. É muito utilizado na área de Ciências Exatas, extremamente necessário para que possa conseguir resolver problemas com eficiência.
+Classificado em três tipos: Indução (dado um fenômeno que está sendo observado, pego uma particularidade, um cenário específico, e extrapolo para o campo da ideias e determinar leis e terias baseado no experimento – muito utilizado nas Ciências Experimentais), Dedução (ocorre de forma inversa da Indução. Dado uma lei, uma teoria vou realizar uma dedução e previsões e explicações baseados naquela lei – muito utilizado dentro das Ciências Exatas) e a Abdução (tipo de raciocínio que utiliza a conclusão para determinar a premissa – muito utilizado em diagnósticos e processos investigativos)
+Trata-se de uma habilidade muito adquirida por treinamento
+Aperfeiçoamento/Refinamento quanto mais eficiente for a solução, melhor otimização de recurso você vai ter e melhor compreensão.
+
+DECOMPOSIÇÃO
+
+É o primeiro passo da resolução de problemas dentro do pensamento computacional. 
+“Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.”
+Através de um problema grande, separar, resolver para depois agregar.
+1ª etapa: Análise - quebrar e determinar partes menores e gerenciáveis. Consiste em estudar e explorar, de uma forma que consiga decompor os elementos constituintes desse problema e realizar um exame detalhado conseguindo assim, uma maior eficácia na resolução;
+2ª etapa: Síntese – combinar os elementos recompondo o problema original. É importante porque uma vez que essas partes do problema foram separadas em partes menores, devem ser recompostas de uma maneira que faça sentido, gerando um processo de reconstrução coerente;
+
+Ordem de execução da tarefas menores: pode ser sequencial (existe uma dependência, uma ordem, entre as tarefas que são executadas em fila); ou paralela (as tarefas ocorrem de maneira concomitante, ao mesmo tempo, paralelizamos o problema -  ganho de recursos absurdo, eficiência em menos tempo de execução, e consequentemente poder computacional e custos)
+
+•	Desenvolver a decomposição – existem diversos modelos que dependem do contexto, tem que ser capaz de desenvolver a decomposição por si mesmo. 
+
+Como decompor?
+- Entenda o problema: deixa o problema principal em segundo plano e foca nos componentes. O que preciso, quais são os aspectos fundamentais pra que consiga resolve-lo. Separa os componentes, verifique se há dependência entre eles, quais são as características e se são problemas menores distintos (as vezes dois aspectos diferentes estão presentes no mesmo problema) reduzindo aquele problema original. Uma vez que identifique ou colete os dados, as dependências, você vai agregar esses dados depois, essas características, o resultado do problema de forma a recompor o problema original e daí fornecer a funcionalidade, o resultado desse problema.
+
+RECONHECIMENTO DE PADRÕES
+
+Modelo -> estrutura invariante que tem bem determinado quais são as características e elas não se modificam, há também uma repetição dessa estrutura invariante.
+O reconhecimento de padrões permite que seja possível determinar, dentro de um problema, qual o meu modelo, ou seja, o que é essa estrutura invariante através de similaridades e diferenças.
+Por que determinar padrões? Trata-se de uma maneira de generalizar, com o objetivo de obter resolução para problemas diferentes.
+Realizamos a classificação dos objetos desconhecidos a partir de classes e categorias que conhecemos as características, as dependências... Os aspectos daquela classe ou categoria e isso vai variar muito dependendo do tipo de domínio e também do tipo de mídia, de objeto que estamos tratando.
+
+Como reconhece padrões?
+- Primeiro por grau de similaridade: comparação entre grupos conhecidos e objetos desconhecidos).
+Como simular esse comportamento através do computador?
+- 1º Representação de atributos -> dar dados para o computador para que ele entenda o que significa aquele objeto (fornecer os atributos). Aprendizado: qual o conceito associado ao objeto, passar toda a informação para que o computador entenda o conceito. Armazenar os dados, esses dados serão guardados (atributos, ao contexto que está inserido...) para que o computador consiga acessá-los para tomar a decisão de categorizá-los ou classifica-los. E por fim determinar regras de decisão baseados em tudo que já foi aprendido pelo computador (o desenvolvedor vai determinar quais são as regras para que o computador possa tomar a decisão, ou através das redes neurais).
+
+ABSTRAÇÃO
+
+Abstração é o ato de abstrair, de observar um ou mais elementos, avaliando características e propriedades em separado.
+É um processo intelectual de isolamento de um objeto da realidade, generalizá-lo de uma forma que consiga tirar a dependência dele e que possa utilizar esse abstrato em diversas situações. Tornar geral, mais amplo, estender, sendo possível utilizá-lo em diferentes situações.
+Na lógica é a operação intelectual que consiste em reunir uma classe geral, um conjunto de seres ou fenômenos similares.
+Identificar os pontos essenciais, cada objeto terá peculiaridades, características principais, terá que deixar de lado as características menos importantes e focar em generalizar aquele objeto de uma forma que seja possível classificá-lo. Com isso conseguimos uma representação do objeto.
+Primeiro determinar as características _> focar nos pontos essenciais (todo o restante são detalhes desnecessários -> isso é abstração.
+Existem várias estruturas de dados que podem ser utilizados para problemas distintos.
+
+ALGORITMO
+
+Principal pilar dentro do pensamento computacional, porque é determinante para que possamos executar as instruções e encontrar soluções de uma maneira mais eficiente.
+O computador não opera sozinho, ele precisa de instruções detalhadas de uma forma que ele entenda e consiga encontrar a solução. O ser humano que passa essas instruções. O computador recebe, manipula e armazena dados. Realiza as tarefas através de programas. Esses programas possuem instruções e essas instruções são programadas pelos desenvolvedores.
+O computador precisa de alguém que diga o que ele deve fazer, o que deve executar, que é o seu forte resolver o problema de maneira eficiente.
+As instruções vão dizer o que precisa ser feito e qual a ordem de execução, um passo a passo. O algoritmo deve ser entendido por uma máquina e pelo ser humano.
+Etapas de desenvolvimento de um programa:
+- Análise: estudo e definição dos dados de entrada e saída;
+- Algoritmo: descreve o problema por meio de ferramentas narrativas, fluxograma, ou pseudocódigo;
+(as instruções detalhadas que são criadas irão ser base para a construção do algoritmo e esses algoritmos são utilizados pelos programas)
+- Codificação: o algoritmo é codificado de acordo com a linguagem de programação escolhida.
+
+•	Sequência de passos com objetivo definido
+•	Execução de tarefas específicas, explícitas
+•	Conjunto de operações que resultam em uma sucessão finita de ações.
+
+Para executar as instruções e retornar um resultado.
+Instruções executadas passo a passo para concluir uma tarefa.
+Com construir um algoritmo?
+
+•	Compreensão do problema (quais são os pontos mais importantes, deixando de lado os menos expressivos que não irão influenciar muito no seu resultado);
+•	Definição de dados de entrada (quais são os dados inerentes do cenário que se está trabalhando, contexto);
+•	Definir processamento (quais operações e se há algum tipo de restrição atrelado àquele problema que precisa ser tratado para definir o processamento e encontrar a solução);
+•	Definir dados de saída (dados após o processamento, se já se espera um tipo de dado e quais dados serão retornados a partir do processamento – é uma forma de verificar se o problema está sendo resolvido de maneira correta, se o algoritmo está trabalhando de maneira correta, se a partir desses dados se há algum outro tipo de ação a ser executada);
+•	Utilizar um método na construção (definir um tipo de estrutura, um tipo de sintaxe, após essa construção realizar o refinamento do algoritmo, depois realizar testes para a partir destes testes tirar alguns insights para tornar o algoritmo mais eficiente ou encontrar erros e problemas);
+•	Teste e diagnóstico.
+
+Métodos para construção do Algoritmo:
+•	Narrativa;
+•	Fluxograma;
+•	Pseudocódigo -> Portugol – método mais próximo da codificação, não dá margem para erros.
+
+Não é necessário utilizar todos os pilares para resolver um problema.
+
+  
+
+Habilidade do Pensamento Computacional: Resolução de problemas complexos; Pensamento crítico; Criatividade e Flexibilidade cognitiva.
+
+HABILIDADE É A COLETA DE DADOS, A PARTIR DO
+MOMENTO QUE VOCÊ QUER RESOLVER O SEU PROBLEMA,
+TEM QUE IDENTIFICAR DE MANEIRA CLARA QUAIS SÃO AS
+INFORMAÇÕES ENVOLVIDAS NESSE PROBLEMA PORQUE, A
+PARTIR, DESSES DADOS QUE SÃO COLETADOS, É FEITO
+UMA ANÁLISE DESSES DADOS PARA QUE NÓS POSSAMOS
+IDENTIFICAR PADRÕES QUE SEJAM INTERESSANTES PARA A RESOLUÇÃO DESSE PROBLEMA, ALÉM DISSO, A PARTIR DESSES DADOS QUE SÃO ANALISADOS, É NECESSÁRIO FAZER A
+REPRESENTAÇÃO DESSES DADOS, SEJA POR GRÁFICOS,
+TABELAS E IMAGENS E, UM PROBLEMA COMPLEXO PARA SER
+RESOLVIDO PRECISA SER DECOMPOSTO EM PARTES
+MENORES.
+
+ENTÃO, UMA DAS HABILIDADES É JUSTAMENTE DECOMPOR ESSE PROBLEMA EM PARTES MENORES, QUE PODEM SER GERENCIADOS E
+CLARO QUE, A PARTIR, DESSA DECOMPOSIÇÃO E A
+RESOLUÇÃO DESSE PROBLEMA, É IMPORTANTE QUE VOCÊ CONSIGA
+VOLTAR ESSES PROBLEMAS, AGREGAR, JUNTAR ESSES
+PROBLEMAS MENORES NO PROBLEMA MAIOR.
+
+A ABSTRAÇÃO É A HABILIDADE NA QUAL, É NECESSÁRIO
+VOCÊ REDUZIR, EXTRAIR DO PROBLEMA INFORMAÇÕES QUE
+NÃO SÃO RELEVANTES PARA A SUA SOLUÇÃO, OU SEJA,
+DIMINUINDO A COMPLEXIDADE DESSE PROBLEMA NO
+MOMENTO EM QUE EU ACABO EXCLUINDO INFORMAÇÕES NÃO
+RELEVANTES. 
+
+HABILIDADE DE DESENVOLVER UM ALGORITMO É DEFINIR UM CONJUNTO DE PASSOS QUE SERÁ UTILIZADO PARA RESOLVER O PROBLEMA. 
+
+É EXTREMAMENTE IMPORTANTE NO
+PENSAMENTO COMPUTACIONAL PORQUE VOCÊ TEM QUE
+APRENDER A TRABALHAR DE FORMA COLABORATIVA, NÉ.
+COM ISSO, ESSA RESOLUÇÃO DE PROBLEMA QUE ESTÁ
+LIGADO DIRETAMENTE ÀS DEMAIS CONTRIBUIÇÕES FAZ
+COM QUE O INDIVÍDUO SEJA, NO MÍNIMO, CRIATIVO
+PORQUE VOCÊ TEM QUE APRENDER A SER CRIATIVO, A
+CONSTRUIR COISAS NOVAS.
+
+Através do Pensamento Computacional é possível encontrar várias soluções para resolver o mesmo problema.
+A solução de um problema pode também ser usada na resolução de um outro problema.
+
